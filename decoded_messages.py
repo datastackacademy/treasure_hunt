@@ -13,6 +13,6 @@ from decrypt_vigenere import decrypt
 
 # print(decrypt(site_address, ))
 
-# third decoded message
+# third decoded message, today's bonus lesson.
 # uncomment, pass the key you got solving the Pandas mystery as the second arg:
 # print(decrypt(bacon_binary, ))

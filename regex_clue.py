@@ -1,8 +1,6 @@
-regex_clue = "ah `razkw.tq`, ue tomjtl zidd bzi tifz 'rtagw ce lfvvijfrcu', bzijy'j toiuxds fcv egvv gritpary nyxj lwwulzekqgr: \
-    an jirzlw ockw r tgawltpjm dilnvg zv llw uceyitil vvinmwr 'd' ues 'h'. \
-    bzi kytdel dilnvg za fsl 'l', 'f', 'p', 'v', wj 't'. \
-    szkti bzel nytim svw zzkv wj qglv afewvuujt cmlxwlj. \
-    xe bzi xcct `umusvyu_bvakeyyj.ep`, cki `kckt_rlvvwmj` pj bzi xcihk ijkmgvck bg `hwwingb()` \
-    srv nyt nwjh qil vvb xvgg `razkw.tq` uj iym kiuies rzyyeyei. kpw hwwingbwh \
-    eyjhrow aafc ivtd cgo nwvzw xg af cvfl."
-    
+regex_clue = "If `ucxtm.hc`, sh vmvzhx xlfb kpw fgib 'Aazkw mf Wiesvzdefx', kwvzw'w wrrrktq sfy ndil eelwyxeo llam utjkjmhnzde:  Ib kxslkh nqll s fflvzueky ctkbwv ah kwv idtzustk jwxoyvc 'c' ifh 'i'. \
+    Tbv hvkgrv fvikmj mk NOT 'l', 'f', 'p', 'v', wj 't'. \
+    Axnvg kpsx lbvgv iji xcmt fz esjy cdnmjgsmv avblijm. \
+    Ie iym xmdy `uttwviv_gvhjiyik.jp`, jjm `kmly_rsuzwwk` uj iym xmjmk piomqwhk if `lwgjsgi()` \
+    rvv xzy ndil qsm avi wzgq `sfzrv.xq` ek nyt jmusfx rgxceifn. Tyt umuvqjktu \
+    uwwkuxt nqdp lyca pwm azyit kw ys fyoi."
