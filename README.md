@@ -1,4 +1,4 @@
-We had a special lesson on encryption prepared for you today, but somebody encrypted it! Luckily, the culplrit left us some clues so we can restore it.
+We had a special lesson on encryption prepared for you today in the file `bacon_binary.py`, but somebody encrypted it! Luckily, the culplrit left us some clues so we can restore it.
 
 Before you begin, follow the instructions in the `Setup` section below, so you can run the code on your local machine.
 
