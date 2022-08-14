@@ -1,5 +1,6 @@
 from regex_clue import regex_clue
 from site_address import site_address
+from bacon_binary import bacon_binary
 
 
 ALPHA = "abcdefghijklmnopqrstuvwxyz"
@@ -24,6 +25,5 @@ def decrypt(coded_message, key):
             decrypted += char
     
     return decrypted
-
 
 
