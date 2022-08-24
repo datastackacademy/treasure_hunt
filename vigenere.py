@@ -6,9 +6,13 @@ def vigenere(direction: str, message: str, key: str) -> str:
     Encrypt or decrypt a message using a key.
     Adapted from 
 
-    direction -- "encrypt", "e", "decrypt", or "d"
-    message -- text to alter
-    key -- decrypt a message with the same key that encrypted it
+    Args:
+        direction (str): "encrypt", "e", "decrypt", or "d"
+        message (str): text to alter
+        key (str): decrypt a message with the same key that encrypted it
+
+    Returns:
+        str: encrypted or decrypted message
     """
     altered = ""
     current_index = 0
@@ -33,3 +37,28 @@ def vigenere(direction: str, message: str, key: str) -> str:
     
     return altered
 
+
+def encrypt(message: str, key: str) -> str:
+    """Vigenere encrypt a message using a key.
+
+    Args:
+        message (str): message to encrypt
+        key (str): encryption key
+
+    Returns:
+        str: encrypted message
+    """
+    return vigenere('e', message, key)
+
+
+def decrypt(message: str, key: str) -> str:
+    """Vigenere decrypt a message using a key.
+
+    Args:
+        message (str): message to decrypt
+        key (str): encryption key
+
+    Returns:
+        str: decrypted message
+    """
+    return vigenere('d', message, key) 
