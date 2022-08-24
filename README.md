@@ -30,6 +30,8 @@ Good luck!
 `pip install -r requirements.txt`
 
 ### References
+The code in `vigenere.py` was closely adapted from Sweigart's book 'Cracking Codes with Python'.
+
 - 'Today', by Frank O'Hara, 1950
 - 'Cracking Codes with Python', by Al Sweigart, 2018
 - 'Alice in Wonderland', by Lewis Carroll, 1865
