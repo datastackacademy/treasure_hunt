@@ -39,14 +39,24 @@ The trail of clues starts in the file `today.py`. It's a poem by Frank O'Hara th
 - Uncomment line 9 of `decoded_messages.py` and pass the key as the second argument to `decrypt()`.
 - This will decrypt the text in the file `regex_clue.py`, which will give you the second clue.
 
-Good luck!
-
-
+Good luck! 🍀🌠🤞
 
 ### References
+
 The code in `vigenere.py` was closely adapted from Sweigart's book 'Cracking Codes with Python'.
 
 - 'Today', by Frank O'Hara, 1950
 - 'Cracking Codes with Python', by Al Sweigart, 2018
 - 'Alice in Wonderland', by Lewis Carroll, 1865
 - 'How to Make Anything Signify Anything', William Sherman for Cabinet Magazine, 2010
+
+### Par Suggestions
+
+- Let me know what you think about having the notebook with the clues given with the sample code for each section?
+- I also included a solutions notebooks with a bit more explanation.
+- Finish the solution notebook please. The last section is not done
+- The regex clue had multiple words that matched my regex! This could totally be me. My regex was: `r"\b[l-q][^roaep ][a-z]{5,}\b"`
+- If we add another condition that "the word must end with the letter 's'" then we get only `pictures` which is the key
+- It's probably the best we move the `https://github.com/alma-frankenstein/whodunnit` to Data Stack
+- Move the setup section of `https://github.com/alma-frankenstein/whodunnit` to the top and instructions down. That's probably the order the users would do it ;)
+- 
