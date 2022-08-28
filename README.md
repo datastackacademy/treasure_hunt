@@ -4,7 +4,9 @@
 
 We had a special lesson on encryption prepared for you today in the file `bacon_binary.py`, but somebody encrypted it! Luckily, the culprit left us some clues so we can restore it.
 
-Before you begin, follow the instructions in the `Setup` section below, so you can run the code on your local machine.
+Before you begin, follow the instructions in the `Setup` section below, so you can run the code on your local machine. 
+
+We'll walk through the clues together in the notebook `treasure_hunt.ipynb`. It will use our skills in indexing, Pandas, and regex.
 
 We know that for each of the encrypted messages in the trail of clues, the culprit used the [Vigenere cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). The Vigenere cipher takes a string of letters as a key to encrypt a message, and can decrypt it using that same key. In today's mystery the Vigenere cipher is used three times, each with a different key and a different message. 
 
