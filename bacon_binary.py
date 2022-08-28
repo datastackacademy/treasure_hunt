@@ -8,7 +8,7 @@ bacon_binary = "Txy Baeyd vipkhs ckzxyr yki wrgkjyd di jbe Enspubgdxun pyrfeokd 
     nunsfm apn fytwxyus kx q zlqgulbgn, el tjo silqb ez tjbuudu sd u sjshn; a ekioan fyywgb miunnd'n nqdywe vrqn tjoo \
     qeto biomsda av kd ynebojtgn cysukwy. Thg myjhgb sun cvii bg eiyd kx din-xsioan wuxic, vyee vru ponecy oh xeneu sd u \
     sqxw. Tbeto'i yvgx q xoeecynvot yxcwffe qp q mckodniud qftgbyhg vru neozulavehy oh k vcsj rqvivkj mo vrqn tjo vcsjc' \
-    enonsjbs—dydys vrqn afn q faaoh yaer oyat vyee vru lipqi if c dhye—yohy epmhspvot no toqx, mkmhiseyfcccvbs, 'hk weg'. \
+    enonsjbs (dydys vrqn afn q faaoh yaer oyat vyee vru lipqi if c dhye) yohy epmhspvot no toqx, mkmhiseyfcccvbs, 'hk weg'. \
     \
     Frqw jbe ost-1800'm tq dxy 1940's vrule yki u fcn ji cqwr nhg zbuyu yv Sbamoijecbu, oskxw Bucqx'i wirrul tq veik hyh \
     meebun mgciuggc el exstyneo jbav Ssh Flapmym Baeyd qau dxy rgkb uuvrel oh Srqeeuzuurg'c mirm. Ac qh ipduleudyhg \

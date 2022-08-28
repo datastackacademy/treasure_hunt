@@ -62,3 +62,4 @@ def decrypt(message: str, key: str) -> str:
         str: decrypted message
     """
     return vigenere('d', message, key) 
+    
