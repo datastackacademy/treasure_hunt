@@ -7,6 +7,7 @@ We know that for each of the encrypted messages in the trail of clues, the culpr
 # Start Here
 The trail of clues starts in the file `today.py`. It's a poem by Frank O'Hara that has been broken into nested lists of possible keys. You'll have to use your list indexing skills.
 - Get the 6th item in the 2nd list of the 2nd list of the 3rd list of the 2nd list of `possible_keys` in `today.py`.
+> Tip: Test the indexing as you go, and remember that Python is zero-indexed
 - Uncomment line 9 of `decoded_messages.py` and pass the key as the second argument to `decrypt()`.
 - This will decrypt the text in the file `regex_clue.py`, which will give you the second clue.
 
