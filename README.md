@@ -13,7 +13,7 @@ The trail of clues starts in the file `today.py`. It's a poem by Frank O'Hara th
 Good luck!
 
 ### Setup
-- Clone this repository on to your local computer:
+- Clone this repository:
 
 `git clone https://github.com/datastackacademy/treasure_hunt.git`
 
